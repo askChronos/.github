@@ -24,9 +24,9 @@
 
 ### 🚀 Connect With Us
 - 🌐 [Visit Our Website](https://www.askchronos.com?utm_source=github&utm_medium=readme&utm_campaign=organization_profile)
-- 🐦 [Follow Us on Twitter](https://twitter.com/ChronosAstro)
-- 📷 [Follow Us on Instagram](https://instagram.com/ChronosAstro)
-- 💌 [Contact Us](mailto:support@askchronos.com)
+- 🐦 [Follow Us on Twitter](https://x.com/ChronosGuidance)
+- 📷 [Follow Us on Instagram](https://instagram.com/chronoshoroscope)
+- 💌 [Contact Us](mailto:hi@askchronos.com)
 
 ---
 
